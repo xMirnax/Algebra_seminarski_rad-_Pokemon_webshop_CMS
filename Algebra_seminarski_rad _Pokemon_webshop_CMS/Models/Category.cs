@@ -6,7 +6,7 @@ namespace Algebra_seminarski_rad__Pokemon_webshop_CMS.Models
     {
         public int Id { get; set; }
         [Required]
-        public int Name { get; set; }
+        public string Name { get; set; }
         public int DisplayOrder { get; set; }
     }
 }
