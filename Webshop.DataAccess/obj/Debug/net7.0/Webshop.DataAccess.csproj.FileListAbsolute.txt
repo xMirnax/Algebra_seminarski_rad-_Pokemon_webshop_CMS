@@ -1,0 +1,5 @@
+C:\My Documents\Udemy\Algebra_seminarski_rad _Pokemon_webshop_CMS\Webshop.DataAccess\obj\Debug\net7.0\Webshop.DataAccess.csproj.AssemblyReference.cache
+C:\My Documents\Udemy\Algebra_seminarski_rad _Pokemon_webshop_CMS\Webshop.DataAccess\obj\Debug\net7.0\Webshop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Documents\Udemy\Algebra_seminarski_rad _Pokemon_webshop_CMS\Webshop.DataAccess\obj\Debug\net7.0\Webshop.DataAccess.AssemblyInfoInputs.cache
+C:\My Documents\Udemy\Algebra_seminarski_rad _Pokemon_webshop_CMS\Webshop.DataAccess\obj\Debug\net7.0\Webshop.DataAccess.AssemblyInfo.cs
+C:\My Documents\Udemy\Algebra_seminarski_rad _Pokemon_webshop_CMS\Webshop.DataAccess\obj\Debug\net7.0\Webshop.DataAccess.csproj.CoreCompileInputs.cache

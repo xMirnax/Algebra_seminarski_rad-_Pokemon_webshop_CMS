@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Algebra_seminarski_rad _Pokemon_webshop_CMS.props" />
+</Project>

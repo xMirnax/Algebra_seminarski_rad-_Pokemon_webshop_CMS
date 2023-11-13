@@ -1,0 +1,12 @@
+C:\My Documents\Udemy\Algebra_seminarski_rad _Pokemon_webshop_CMS\Webshop.Utility\bin\Debug\net7.0\Webshop.Utility.deps.json
+C:\My Documents\Udemy\Algebra_seminarski_rad _Pokemon_webshop_CMS\Webshop.Utility\bin\Debug\net7.0\Webshop.Utility.dll
+C:\My Documents\Udemy\Algebra_seminarski_rad _Pokemon_webshop_CMS\Webshop.Utility\bin\Debug\net7.0\Webshop.Utility.pdb
+C:\My Documents\Udemy\Algebra_seminarski_rad _Pokemon_webshop_CMS\Webshop.Utility\obj\Debug\net7.0\Webshop.Utility.csproj.AssemblyReference.cache
+C:\My Documents\Udemy\Algebra_seminarski_rad _Pokemon_webshop_CMS\Webshop.Utility\obj\Debug\net7.0\Webshop.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Documents\Udemy\Algebra_seminarski_rad _Pokemon_webshop_CMS\Webshop.Utility\obj\Debug\net7.0\Webshop.Utility.AssemblyInfoInputs.cache
+C:\My Documents\Udemy\Algebra_seminarski_rad _Pokemon_webshop_CMS\Webshop.Utility\obj\Debug\net7.0\Webshop.Utility.AssemblyInfo.cs
+C:\My Documents\Udemy\Algebra_seminarski_rad _Pokemon_webshop_CMS\Webshop.Utility\obj\Debug\net7.0\Webshop.Utility.csproj.CoreCompileInputs.cache
+C:\My Documents\Udemy\Algebra_seminarski_rad _Pokemon_webshop_CMS\Webshop.Utility\obj\Debug\net7.0\Webshop.Utility.dll
+C:\My Documents\Udemy\Algebra_seminarski_rad _Pokemon_webshop_CMS\Webshop.Utility\obj\Debug\net7.0\refint\Webshop.Utility.dll
+C:\My Documents\Udemy\Algebra_seminarski_rad _Pokemon_webshop_CMS\Webshop.Utility\obj\Debug\net7.0\Webshop.Utility.pdb
+C:\My Documents\Udemy\Algebra_seminarski_rad _Pokemon_webshop_CMS\Webshop.Utility\obj\Debug\net7.0\ref\Webshop.Utility.dll
